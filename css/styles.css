@@ -1,0 +1,22 @@
+body{
+    background-color:lightyellow;
+}
+hr{
+    background-color: lightyellow;
+    border-color:aquamarine;
+    border-style: dotted none none;
+    border-width: 10px;
+    height:0;
+    width:5%;
+}
+img{
+    height: 100px;
+}
+
+h1{
+    color: #66BFBF;
+}
+h2{
+    color: black;
+    font-style: italic;
+}
